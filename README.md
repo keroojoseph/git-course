@@ -1,5 +1,4 @@
 # git-course
-for keroo 
-##project notes
-## project 
-<h2> new
+# for keroo 
+## project notes
+...heading level 1.
